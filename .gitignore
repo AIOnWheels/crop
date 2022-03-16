@@ -53,7 +53,8 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 cover/
-
+.DS_Store
+.python-version
 # Translations
 *.mo
 *.pot
