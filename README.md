@@ -14,3 +14,5 @@ This repository holds the work on crop disease detection using Computer Vision I
 - Find the distriution of pixel per class
 - Contrast between average images 
 - You can use eigenimages to identify the defining part of the images
+
+This is a test PR
